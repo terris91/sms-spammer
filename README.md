@@ -4,3 +4,4 @@
 # FIlI-SMS
 
 ### An SMS Bomber that only works with Vietnamese numbers (+84)
+### Một tool spam-sms (sms-bomber) chỉ hoạt động với đầu số +84 - Vietnam
